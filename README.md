@@ -1,4 +1,4 @@
-Sentiment Analysis on Movie Reviews
+##Sentiment Analysis on Movie Reviews
 
 Project Overview:
 This project implements a web-based Sentiment Analysis application using Python and the Streamlit framework. It analyzes movie reviews to determine their sentiment (e.g., positive or negative) using a machine learning pipeline. The application features text preprocessing, TF-IDF vectorization, and a Multinomial Naive Bayes classifier. It provides a user-friendly interface for live sentiment prediction and displays key model evaluation metrics.
